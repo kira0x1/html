@@ -203,7 +203,7 @@ importers:
   packages/fastify-html-plugin:
     dependencies:
       '@kitajs/html':
-        specifier: workspace:^4.1.0
+        specifier: workspace:^4.2.0
         version: link:../html
       '@kitajs/ts-html-plugin':
         specifier: workspace:^4.0.1

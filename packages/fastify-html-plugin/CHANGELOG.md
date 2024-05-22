@@ -1,5 +1,22 @@
 # @kitajs/fastify-html-plugin
 
+## 4.1.1
+
+### Patch Changes
+
+- [`6790818`](https://github.com/kitajs/html/commit/6790818c4c694a9816bf7ccddc39779fa3afc8d1)
+  Thanks [@arthurfiorette](https://github.com/arthurfiorette)! - Added ESM support
+
+- Updated dependencies
+  [[`aa57511`](https://github.com/kitajs/html/commit/aa57511644f2a082739da65591964e34482df2b0),
+  [`af06ac8`](https://github.com/kitajs/html/commit/af06ac88a066c61cf66c0a0667a942a7bf2c5dd9),
+  [`d0f51bc`](https://github.com/kitajs/html/commit/d0f51bcf1ecc6bd57b16247a18415f220fb3082b),
+  [`d529ec0`](https://github.com/kitajs/html/commit/d529ec009041bbf9c88f86eedbe2c9c39973f8ee),
+  [`6790818`](https://github.com/kitajs/html/commit/6790818c4c694a9816bf7ccddc39779fa3afc8d1),
+  [`6790818`](https://github.com/kitajs/html/commit/6790818c4c694a9816bf7ccddc39779fa3afc8d1),
+  [`19fe101`](https://github.com/kitajs/html/commit/19fe1019068d2d7b1af52b654e270851ffd38622)]:
+  - @kitajs/html@4.2.0
+
 ## 4.1.0
 
 ### Minor Changes
